@@ -1,0 +1,30 @@
+{
+  "name": "systema-meta-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "test": "node --test \"lib/**/*.test.js\""
+  },
+  "dependencies": {
+    "date-fns": "^4.4.0",
+    "lucide-react": "^1.71.0",
+    "next": "^16.4.6",
+    "radix-ui": "^1.8.1",
+    "react": "^19.3.1",
+    "react-day-picker": "^10.0.2",
+    "react-dom": "^19.3.1",
+    "server-only": "^0.0.1"
+  },
+  "devDependencies": {
+    "@netlify/plugin-nextjs": "^5.16.6",
+    "@tailwindcss/postcss": "^4.3.5",
+    "eslint": "^9.39.5",
+    "eslint-config-next": "^16.4.6",
+    "tailwindcss": "^4.3.5"
+  }
+}
