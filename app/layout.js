@@ -17,7 +17,7 @@ const hind = Hind_Siliguri({
 })
 
 export const metadata = {
-  title: 'Systema · Meta Ads Performance',
+  title: 'Systema Bangladesh · Meta Ads Performance',
   description: 'Meta Ads performance dashboard for Systema Bangladesh.',
 }
 

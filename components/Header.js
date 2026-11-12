@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import Logo from './Logo'
 
-export const BRAND = 'Systema'
+export const BRAND = 'Systema Bangladesh'
 
 export default function Header() {
   return (

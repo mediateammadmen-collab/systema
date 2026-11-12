@@ -1,6 +1,6 @@
-# Systema · Meta Ads Performance
+# Systema Bangladesh · Meta Ads Performance
 
-A server-rendered dashboard for Systema's Meta (Facebook/Instagram) ads in Bangladesh. It shows headline metrics, ad creatives with inline video playback, and campaign-type breakdowns. Data is read live from the Meta Graph API.
+A server-rendered dashboard for Systema Bangladesh's Meta (Facebook/Instagram) ads. It shows headline metrics, ad creatives with inline video playback, and campaign-type breakdowns. Data is read live from the Meta Graph API.
 
 Stack: Next.js 16 (App Router, Cache Components), React 19, JavaScript, Tailwind CSS v4, Radix UI, lucide-react, date-fns, react-day-picker. Deploys to Netlify.
 
